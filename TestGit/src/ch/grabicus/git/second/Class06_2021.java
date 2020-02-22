@@ -1,5 +1,5 @@
 package ch.grabicus.git.second;
 
-public class Class5_2020 {
+public class Class06_2021 {
 
 }
