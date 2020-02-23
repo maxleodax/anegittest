@@ -13,7 +13,7 @@ public class ANewClass {
 		System.out.println("ANewClass 8 remote");
 		System.out.println("ANewClass Branchly 1");
 		System.out.println("ANewClass Branchly 2");
-		System.out.println("EXIT main");
 		System.out.println("ANewClass 9 remote");
+		System.out.println("EXIT main");
 	}
 }
