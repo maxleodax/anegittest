@@ -10,6 +10,7 @@ public class ANewClass {
 		System.out.println("ANewClass 5");
 		System.out.println("ANewClass 6");
 		System.out.println("ANewClass 7");
+		System.out.println("ANewClass 8 remote");
 		System.out.println("EXIT main");
 	}
 }
