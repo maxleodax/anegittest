@@ -18,6 +18,7 @@ public class ANewClass {
 		System.out.println("ANewClass 10 remote");
 		System.out.println("ANewClass 11 local");
 		System.out.println("ANewClass 12 local");
+		System.out.println("ANewClass 13 local to rebase");
 		System.out.println("EXIT main");
 	}
 }
